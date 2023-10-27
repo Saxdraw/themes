@@ -220,7 +220,7 @@
     -o-transition: box-shadow .2s ease;
     -moz-transition: box-shadow .2s ease;
     transition: box-shadow .2s ease;
-    background-color: #ffffff00;
+    background-color: var(--mainColor);
     z-index: 1;
     position: absolute
 }
